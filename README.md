@@ -1,10 +1,13 @@
 <div align="center">
 
-# Assignment: CSC-461
+# Assignment
+### Programming Language Structure
+### Course code: CSC-461
+<br>
 
 </div>
 
-## Description of Four Categories
+## Categories
 
 ### 1. 🔹 **Fixed Dynamic**
 - The array has a **fixed size** known at **compile time**.
