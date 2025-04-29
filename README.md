@@ -1,4 +1,8 @@
-<p align="center"><b><font size="7">Assignment: CSC-461</font></b></p>
+<div align="center">
+
+# Assignment: CSC-461
+
+</div>
 
 ## Description of Four Categories
 
