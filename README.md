@@ -1,5 +1,6 @@
+<p align="center"><b><font size="7">Assignment: CSC-461</font></b></p>
 
-## Description of Array Memory Categories
+## Description of Four Categories
 
 ### 1. 🔹 **Fixed Dynamic**
 - The array has a **fixed size** known at **compile time**.
